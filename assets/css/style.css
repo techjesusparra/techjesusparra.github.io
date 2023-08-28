@@ -10,10 +10,10 @@
 # General
 --------------------------------------------------------------*/
 @import "{{ site.theme }}";
-
+/*
 header {
   display: none;
-}
+}*/
 
 body {
   font-family: "Open Sans", sans-serif;
